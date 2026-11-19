@@ -35,6 +35,24 @@ The application provides a centralized interface to manage employee records, all
 ## 📂 Project Structure
 
 ```text
+agaetis-tech/
+├── backend/
+│   ├── src/
+│   ├── migrations/
+│   ├── node_modules/
+│   ├── .env
+│   ├── .env.example
+│   ├── package.json
+│   ├── prisma.config.ts
+│   └── prisma-8.md
+│
+├── frontend/
+│   ├── src/
+│   ├── .env
+│   ├── package.json
+│   └── ...
+│
+└── README.md
 frontend/
 │
 ├── src/
